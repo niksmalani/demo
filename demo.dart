@@ -1,6 +1,12 @@
-Function f = (){ return 'demo';};
+class A {
+  A() {
+    print('hi i am nikunj');
+  }
+}
 
-
+Function f = () {
+  return 'demo';
+};
 
 void main() {
   for (var x in [10, 20]) print(x);
