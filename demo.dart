@@ -7,4 +7,5 @@ class A {
 void main() {
   A();
   print('hello wolrd');
+  print('hello test');
 }
